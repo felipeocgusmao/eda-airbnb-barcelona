@@ -2,6 +2,11 @@
 
 Dashboard interativo com análise exploratória e modelo preditivo de preços de alojamentos Airbnb em Barcelona.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+
 🔗 **[Abrir app](https://projeto1-ow9ole3qp8uyiempm.streamlit.app/)**
 
 ---
@@ -53,3 +58,7 @@ pytest test.py -v           # testes
 ## Tecnologias
 
 Python · Pandas · scikit-learn · Plotly · Streamlit · Matplotlib · pytest · GitHub Actions
+
+---
+
+**Felipe Gusmão** · [LinkedIn](https://www.linkedin.com/in/felipe-oliveira-cesar-gusmao-a8205019a/) · [Portfolio](https://meu-portfolio-two-psi.vercel.app)
